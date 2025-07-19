@@ -1,0 +1,44 @@
+{
+  "cardData": [
+    {
+      "id": 1,
+      "cardtext": "PEMF Devices",
+      "cardimg": "../img/cardimg.png"
+    },
+    {
+      "id": 2,
+      "cardtext": "Breathing Salt Therapy Inhalers",
+      "cardimg": "../img/cardimg2.png"
+    },
+    {
+      "id": 3,
+      "cardtext": "Electronic vision improvement",
+      "cardimg": "../img/cardimg3.png"
+    },
+    {
+      "id": 4,
+      "cardtext": "Body Shaping Devices",
+      "cardimg": "../img/cardimg4.png"
+    },
+    {
+      "id": 5,
+      "cardtext": "Polarized Light Therapy lamps",
+      "cardimg": "../img/cardimg5.png"
+    },
+    {
+      "id": 6,
+      "cardtext": "Air Purification devices",
+      "cardimg": "../img/cardimg6.png"
+    },
+    {
+      "id": 7,
+      "cardtext": "Micro-current Pain Ease Wraps",
+      "cardimg": "../img/cardimg7.png"
+    },
+    {
+      "id": 8,
+      "cardtext": "Equestrian PEMF devices",
+      "cardimg": "../img/cardimg8.png"
+    }
+  ]
+}

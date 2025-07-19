@@ -1,0 +1,90 @@
+{
+  "trendingproduct": [
+    {
+      "id": 1,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct1.png",
+      "card_title": "PEME ANTI AGING PACAGE - OMI",
+      "card_text": "PEME pads,OMI PEME mask",
+      "card_price": "$1450",
+      "card_two_pric": "$1350",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    },
+    {
+      "id": 2,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct2.png",
+      "card_title": "PEME Beyond OMI Powerband - Electromagnetic",
+      "card_text": "Field Therapy - Advanced PEME Device",
+      "card_price": "$1200",
+      "card_two_pric": "$990",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    },
+    {
+      "id": 3,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct1.png",
+      "card_title": "PEME Beyond Power Package -PEME",
+      "card_text": "Beyond Mat & PEME Beyond Powerband",
+      "card_price": "$2400",
+      "card_two_pric": "$2200",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    }
+  ],
+  "trendingproduct2": [
+    {
+      "id": 4,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct4.png",
+      "card_title": "PEME Packages -OMI Pads,OMI Rings,OMI",
+      "card_text": "PulsePad",
+      "card_price": "$1550",
+      "card_two_pric": "$1350",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    },
+    {
+      "id": 5,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct5.png",
+      "card_title": "Salt Board 3 pcs Set",
+      "card_text": "Field Therapy - Advanced PEME Device",
+      "card_price": "$380",
+      "card_two_pric": "$340",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    },
+    {
+      "id": 6,
+      "roundtext": "Sale",
+      "img": "../img/trendingproduct6.png",
+      "card_title": "Gemstone Boards - chakra Gemston",
+      "card_text": "Boards 7 pcs Set",
+      "card_price": "$900",
+      "card_two_pric": "$820",
+      "line1": "IN Stock",
+      "line2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "text1": "Compare",
+      "text2": "Quick View"
+    }
+  ]
+}

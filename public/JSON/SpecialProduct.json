@@ -1,0 +1,64 @@
+{
+  "specialProduct": [
+    {
+      "id": 1,
+      "product_title": "Salt Pipe - Refillable Salt Inhaler with salt",
+      "product_title2": "Bag",
+      "product_price": "$40.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img2.png"
+    },
+    {
+      "id": 2,
+      "product_title": "OMP PADS - Pulsed Electromagnetic field",
+      "product_title2": "Therapy - PAME Full Body mat",
+      "product_price": "$1250.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img3.png"
+    },
+    {
+      "id": 3,
+      "product_title": "Salt Pipe refill bag (2",
+      "product_title2": "pcs)",
+      "product_price": "$30.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img4.png"
+    },
+    {
+      "id": 4,
+      "product_title": "PEME Beyond OMI Pads, Pulsed Electromagnetic",
+      "product_title2": "Theraphy - Advanced PEME Full Body mat",
+      "product_price": "$1990.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img5.png"
+    },
+    {
+      "id": 5,
+      "product_title": "OMI PEME MINIMAT / Chair Mat - 24” X 16”",
+      "product_title2": "Pulsed Electromagnetic Filed Theraphy mat",
+      "product_price": "$495.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img6.png"
+    },
+    {
+      "id": 6,
+      "product_title": "ESSENCAIR Air Disinfaction device - Kills",
+      "product_title2": "viruses and Bacterias",
+      "product_price": "$495.00",
+      "stock_info1": "IN Stock",
+      "stock_info2": "FREE SHIPPING",
+      "btn_text": "ADD TO CART",
+      "img": "../img/img7.png"
+    }
+  ]
+}

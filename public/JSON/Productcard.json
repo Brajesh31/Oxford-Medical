@@ -1,0 +1,70 @@
+{
+  "productcardData": [
+    {
+      "id": 1,
+      "product_badge": "BIG SAVING",
+      "producttitle1": "Breathing Salt",
+      "producttitle2": "Therapy Inhalers",
+      "price": "From $39",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg.png"
+    },
+    {
+      "id": 2,
+      "product_badge": "40% Off",
+      "producttitle1": "Salt Therapy",
+      "producttitle2": "Boards",
+      "price": "From $340",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg2.png"
+    },
+    {
+      "id": 3,
+      "product_badge": "BIG SAVING",
+      "producttitle1": "PEMF Machines",
+      "producttitle2": "Therapy Inhalers",
+      "price": "From $1350",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg3.png"
+    },
+    {
+      "id": 4,
+      "product_badge": "Best Price",
+      "producttitle1": "PEMF Beyond",
+      "producttitle2": "Therapy Inhalers",
+      "price": "From $1990",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg4.png"
+    },
+    {
+      "id": 5,
+      "product_badge": "OVER 50%",
+      "producttitle1": "Gemstone",
+      "producttitle2": "Boards",
+      "price": "From $820",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg5.png"
+    },
+    {
+      "id": 6,
+      "product_badge": "Save Extra",
+      "producttitle1": "ESSENCAIR Air",
+      "producttitle2": "Disinfaction device",
+      "price": "From $495",
+      "shippinginfo1": "IN Stock",
+      "shippinginfo2": "FREE SHIPPING",
+      "btntext": "Buy Now",
+      "img": "../img/productimg6.png"
+    }
+  ]
+}
